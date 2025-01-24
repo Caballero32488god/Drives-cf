@@ -1,6 +1,5 @@
 local allowedPlayers = {
-	"Pixel_maks1"
-        "bannaboy89917"
+	"bannaboy89917"
 }
 
 local player = game.Players.LocalPlayer
